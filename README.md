@@ -1,4 +1,4 @@
-# ShivaniFolio
+# ShivangiFolio
 
 ![hero-bg](https://user-images.githubusercontent.com/130690689/232274814-59eca986-278e-44b0-8cec-2baa2638ef9f.gif)
 
